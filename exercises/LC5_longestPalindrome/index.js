@@ -38,6 +38,7 @@ function helpFunc(str, startIndex, endIndex) {
 console.log(longestPalindrome("aba"));
 console.log(longestPalindrome("cbbd"));
 console.log(longestPalindrome("abacdfgdcaba"));
+console.log(longestPalindrome("aaaa"));
 
 module.exports = longestPalindrome;
 
